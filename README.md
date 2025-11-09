@@ -30,12 +30,6 @@ Passionate about teamwork, shared ideas, and creating solutions together.
 
 ---
 
-### Featured Projects  
-- **Spotify Listening Insights** — Varied analysis of music habits using the Spotify API   
-- **Parity** — Scrapes and compares product prices from multiple sites
-
----
-
 ### 📫 Connect With Me   
 💼 **LinkedIn:** [linkedin.com/in/xavierbarinaga](https://linkedin.com/in/xavierbarinaga)  
 
