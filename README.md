@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Major** | 📊 *Sophomore*  
 💡 Passionate about algorithms, machine learning, and meaningful data-driven projects.  
-🧠 Constantly learning,from abstract data structures to real-world AI applications.
+🧠 Constantly learning,from abstract data structures to real-world AI applications.  
 🤝 Passionate about teamwork, shared ideas, and creating solutions together.
 
 ---
