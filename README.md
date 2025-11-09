@@ -35,3 +35,4 @@ Passionate about teamwork, shared ideas, and creating solutions together.
 
 ---
 
+![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=aganirabx)
