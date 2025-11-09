@@ -31,7 +31,7 @@ Passionate about teamwork, shared ideas, and creating solutions together.
 ---
 
 ### 📫 Connect With Me   
-💼 **LinkedIn:** [linkedin.com/in/xavierbarinaga](https://linkedin.com/in/xavierbarinaga)  
+💼 **LinkedIn:** [My Account](https://www.linkedin.com/in/xavier-barinaga-xlb/)  
 
 ---
 
