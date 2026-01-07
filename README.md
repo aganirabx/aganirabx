@@ -11,7 +11,7 @@ Passionate about teamwork, shared ideas, and creating solutions together.
 - Exploring **data science**, **machine learning**, and **software design**  
 - **Teaching Assistant** for intro CS — helping students debug, build, and think algorithmically  
 - Skilled with **Python, C++, Pandas, NumPy,** and **scikit-learn**.    
-- Currently working on: Spotify API data analysis + a price matcher automation project  
+- Currently working on: Parity 
 
 ---
 
