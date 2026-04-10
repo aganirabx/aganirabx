@@ -24,7 +24,7 @@ Passionate about teamwork, shared ideas, and creating solutions together.
 ---
 
 ### Tech Stack  
-**Languages:** Python · C++ · SQL · HTML  
+**Languages:** Python · C++ · Java · HTML  
 **Libraries:** Pandas · NumPy · Matplotlib · scikit-learn  
 **Tools:** VS Code · Docker · Git/GitHub · WSL · Jupyter Notebooks  
 
