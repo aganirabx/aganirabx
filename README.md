@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Xavier Barinaga  
 
-🎓 **Computer Science Major** | *Sophomore*  
+🎓 **Computer Science Major** | *Junior*  
 Passionate about algorithms, machine learning, and meaningful data-driven projects.  
 Constantly learning,from abstract data structures to real-world AI applications.  
 Passionate about teamwork, shared ideas, and creating solutions together.
@@ -9,7 +9,7 @@ Passionate about teamwork, shared ideas, and creating solutions together.
 
 ### About Me  
 - Exploring **data science**, **machine learning**, and **software design**  
-- **Teaching Assistant** for intro CS — helping students debug, build, and think algorithmically  
+- **Teaching Assistant** for intro CS —> helping students debug, build, and think algorithmically  
 - Skilled with **Python, C++, Pandas, NumPy,** and **scikit-learn**.    
 - Currently working on: Parity 
 
