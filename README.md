@@ -1,38 +1,33 @@
 # 👋 Hi, I'm Xavier Barinaga  
 
 🎓 **Computer Science Major** | *Junior*  
-Passionate about algorithms, machine learning, and meaningful data-driven projects.  
-Constantly learning,from abstract data structures to real-world AI applications.  
-Passionate about teamwork, shared ideas, and creating solutions together.
+Passionate about all things software.  
+I love teamwork, shared ideas, and creating solutions together.
 
 ---
 
 ### About Me  
-- Exploring **data science**, **machine learning**, and **software design**  
-- **Teaching Assistant** for intro CS —> helping students debug, build, and think algorithmically  
-- Skilled with **Python, C++, Pandas, NumPy,** and **scikit-learn**.    
-- Currently working on: Parity 
+- Constantly Exploring  
+- **Teaching Assistant** for intro CS —> helping students debug, build, and think like a computer scientist.
+- Many of my projects are in private repos, reach out and ask about them!
+- Currently working on: CoGo
 
 ---
 
 ### Technical Interests  
-**Data Science & Machine Learning**  
-**Algorithms & Optimization**  
-**Software Development**    
-**AI Ethics & Responsible Tech**
+**AI-Forward Software Development** 
+**DevOps**
+**Algorithms & Optimization** 
+**Solving Real Problems**
 
 ---
 
-### Tech Stack  
-**Languages:** Python · C++ · Java · HTML  
-**Libraries:** Pandas · NumPy · Matplotlib · scikit-learn  
-**Tools:** VS Code · Docker · Git/GitHub · WSL · Jupyter Notebooks  
+### Tech Stack
+**Languages:** Python · C/C++ · Ruby · Java · SQL · JavaScript · TypeScript  
+**Frameworks:** React · Next.js · Vue.js · Ruby on Rails · FastAPI  
+**Tools & Platforms:** Git · GitLab · Docker · Linux · PostgreSQL · Supabase · Cursor · Ollama
 
 ---
 
 ### 📫 Connect With Me   
 💼 **LinkedIn:** [My Account](https://www.linkedin.com/in/xavier-barinaga-xlb/)  
-
----
-
-![Profile Visits](https://img.shields.io/endpoint?url=https://yasinkalkan.com/api/githubvisitorstats/track/?user=aganirabx)
