@@ -9,7 +9,7 @@ I love teamwork, shared ideas, and creating solutions together.
 ### About Me  
 - Constantly Exploring  
 - **Teaching Assistant** for intro CS —> helping students debug, build, and think like a computer scientist.
-- ** Many of my projects are in private repos, reach out and ask about them! **
+- **Many of my projects are in private repos, reach out and ask about them!
 - Currently working on: CoGo
 
 ---
