@@ -14,10 +14,10 @@ I love teamwork, shared ideas, and creating solutions together.
 
 ---
 
-### Technical Interests  
-**AI-Forward Software Development** 
+### Technical Interests 
+**AI-Forward Software Development**
 **DevOps** 
-**Algorithms & Optimization**  
+**Algorithms & Optimization** 
 **Solving Real Problems** 
 
 ---
